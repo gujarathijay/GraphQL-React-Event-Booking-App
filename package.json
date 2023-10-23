@@ -1,0 +1,27 @@
+{
+  "name": "graphql-react-event-booking-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gujarathijay/GraphQL-React-Event-Booking-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gujarathijay/GraphQL-React-Event-Booking-App/issues"
+  },
+  "homepage": "https://github.com/gujarathijay/GraphQL-React-Event-Booking-App#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0",
+    "nodemon": "^3.0.1"
+  }
+}
